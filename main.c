@@ -3,6 +3,8 @@
  *
  * BigFile (c) 2023 by Rene W. Olsen < renewolsen @ gmail . com >
  *
+ * Released under MIT License .. see LICENSE file.
+ *
  */
 
 #include <stdio.h>
@@ -121,7 +123,6 @@ int pos;
 
 	printf( "\n" );
 	printf( "BigFile (c) 2023 by Rene W. Olsen\n" );
-	printf( "All rights reserved.\n" );
 	printf( "\n" );
 	printf( "Generates a very big file with random data\n" );
 	printf( "\n" );
