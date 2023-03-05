@@ -1,0 +1,4 @@
+BigFile.exe.map
+BigFile.exe.debug
+*.o
+*.exe
